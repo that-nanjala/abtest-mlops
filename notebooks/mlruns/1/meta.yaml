@@ -1,0 +1,4 @@
+artifact_location: file:///mnt/c/Users/Zawadi/Documents/projects/abtest-mlops/notebooks/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: demo
