@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Zawadi/Documents/projects/abtest-mlops/notebooks/mlruns/0/6adaeac075d1449c85b4dd0f2b5ef3c7/artifacts
+end_time: 1627148677892
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 6adaeac075d1449c85b4dd0f2b5ef3c7
+run_uuid: 6adaeac075d1449c85b4dd0f2b5ef3c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1627148677644
+status: 3
+tags: []
+user_id: zawi
