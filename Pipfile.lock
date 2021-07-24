@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "bb06f22dbeef6c33ac154ded8d05fe701ab8dbde8a3d0998268086714b683e44"
+            "sha256": "d958adeb166bbcd56b2e8200feb2b502d3af09e556e23694cdcf2e0dbb1ddb48"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -304,6 +304,14 @@
             ],
             "version": "==0.6"
         },
+        "graphviz": {
+            "hashes": [
+                "sha256:5dadec94046d82adaae6019311a30e0487536d9d5a60d85451f0ba32f9fc6559",
+                "sha256:ef6e2c5deb9cdcc0c7eece1d89625fd07b0f2208ea2bcb483520907ddf8b4e12"
+            ],
+            "index": "pypi",
+            "version": "==0.17"
+        },
         "greenlet": {
             "hashes": [
                 "sha256:03f28a5ea20201e70ab70518d151116ce939b412961c33827519ce620957d44c",
@@ -436,9 +444,9 @@
         },
         "mailchecker": {
             "hashes": [
-                "sha256:571f295c2534e20ab096915681ed57e851e2ea18e7c34bde1f5304e175ae68cf"
+                "sha256:b180600943a17b2cecc5c09b9f25b70658d0f384e6eada06e46ea1d447817f89"
             ],
-            "version": "==4.0.10"
+            "version": "==4.0.11"
         },
         "mako": {
             "hashes": [
@@ -974,6 +982,14 @@
             ],
             "version": "==1.7.0"
         },
+        "seaborn": {
+            "hashes": [
+                "sha256:44e78eaed937c5a87fc7a892c329a7cc091060b67ebd1d0d306b446a74ba01ad",
+                "sha256:4e1cce9489449a1c6ff3c567f2113cdb41122f727e27a984950d004a88ef3c5c"
+            ],
+            "index": "pypi",
+            "version": "==0.11.1"
+        },
         "shortuuid": {
             "hashes": [
                 "sha256:3c11d2007b915c43bee3e10625f068d8a349e04f0d81f08f5fa08507427ebf1f",
@@ -1078,7 +1094,6 @@
                 "sha256:50b6f157849174217d0656f99dc82fe932884fb250826c18350e159ec6cdf342",
                 "sha256:779383f6086d90c99ae41cf0ff39aac8a7937a9283ce0a414e5dd782f4c94a84"
             ],
-            "markers": "python_version < '3.10'",
             "version": "==3.10.0.0"
         },
         "urllib3": {

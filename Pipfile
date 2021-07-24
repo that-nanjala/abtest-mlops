@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 mlflow = "*"
 dvc = "*"
+seaborn = "*"
+graphviz = "*"
 
 [dev-packages]
 
