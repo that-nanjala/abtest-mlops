@@ -1,0 +1,5 @@
+outs:
+- md5: 22a99cd79b00df3aeead11e153e79058
+  size: 123387
+  path: AdSmartV1.csv
+  isexec: true
